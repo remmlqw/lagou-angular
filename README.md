@@ -2,6 +2,11 @@
 
 **项目采用 Angular1.x + less + gulp**
 
+**项目演示 请扫二维码**
+
+
+![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/lagou.png)
+
 ### 启动项目
 
 下载项目依赖
